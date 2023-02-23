@@ -1,0 +1,3 @@
+
+///
+in wp admin hide everything not needed from customer

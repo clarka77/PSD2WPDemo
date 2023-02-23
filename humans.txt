@@ -1,0 +1,37 @@
+/* TEAM */
+
+Who I am: Clark A
+Site: https://www.clarka.me
+Twitter: @clarka77
+Location: Kansas City, Kansas, USA
+
+/* THANKS */
+
+YellowMoon PSD Template
+Site: https://graphberry.com/
+Twitter: @graphberry
+From: 7th Planet from the Sun
+
+Humans TXT: We Are People, Not Machines
+Email: hello@humanstxt.org
+Site: http://humanstxt.org
+Twitter: @humanstxt
+Location: World Wide Web, Internet
+
+HTML5 Boilerplate: Catalin Maris, Nicolas Gallagher, Paul Irish, Divya Manian, Mathias Bynens and Hans Christian Reinl.
+Site: https://html5boilerplate.com/
+Twitter: @h5bp
+Location: World Wide Web, Internet
+
+Bulma: Free, open source CSS framework based on Flexbox
+Twitter: @jgthms
+Site: https://bulma.io/
+Location: London, UK
+
+
+/* SITE */
+
+Last update: 2023/02/22
+Standards: HTML5, CSS3, PHP, javascript, MariaDB.
+Components: WordPress, Bulma, Google Fonts, jQuery
+Software: Atom
